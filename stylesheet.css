@@ -9,4 +9,5 @@ p {
 .center {
     border: 20px solid #d1560e;
     text-align: center;
+    padding: 20%;
 }
