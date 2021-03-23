@@ -7,8 +7,7 @@ p {
 }
 
 .myDiv {
-    color: blue;
-    border: 20px solid #d1560e;
+    border: 8px solid #d1560e;
     text-align: center;
-    padding: 20%;
+    padding: 20%
 }
