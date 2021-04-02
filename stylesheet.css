@@ -9,7 +9,7 @@ p {
 
 .page {
     border: 8px solid #ff6d18;
-    padding-top: 25px;
+    padding-top: 10px;
 }
 
 .myDiv {
@@ -17,6 +17,6 @@ p {
     line-height: 180%;
     margin: auto;
     width: 400px;
-    padding: 25px;
+    padding: 50px;
     box-sizing: border-box;
 }
