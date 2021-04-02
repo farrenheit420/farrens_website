@@ -9,6 +9,7 @@ p {
 
 .page {
     border: 8px solid #ff6d18;
+    padding-top: 25px;
 }
 
 .myDiv {
