@@ -15,7 +15,7 @@ p {
     text-align: left;
     line-height: 180%;
     margin: auto;
-    padding: 25px 50px 50px;
     width: 400px;
+    padding: 25px;
     box-sizing: border-box;
 }
